@@ -1,3 +1,4 @@
+UPDATE README file
 echo "# alx-zero_day" >> README.md
 git init
 git add README.md
